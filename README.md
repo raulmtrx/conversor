@@ -5,7 +5,15 @@ El uso de este proyecto es convertir un tipo de moneda a otro, para ello se debe
 La aplicación te pedirá que eligas entre 6 opciones de conversión, deberás de elegir alguna de ellas. Después de ese paso, será necesario que eligas la cantidad de la moneda que será convertia. Esos simples pasos son el procedimiento que utilizará la aplicación para hacer la conversión.
 
 ## :hammer:Funcionalidades del proyecto
--`Funcionalidad 1`: Convertir un tipo de moneda a otro utilizando una cantidad deseada -`Funcionalidad 2`: Saber el precio actual de un tipo de moneda
+-`Funcionalidad 1`: Convertir un tipo de moneda a otro utilizando una cantidad deseada- -`Funcionalidad 2`: Saber el precio actual de un tipo de moneda-
 
 ##  📂 Acceso al proyecto
-Simplemente abre el archivo mediante
+Simplemente descarga los archivos que se encuentran en el repositorio y almacenalos en una sola carpeta.
+
+## 🛠️ Abrir y ejecutar el archivo
+Con la carpeta almacenada del archivo, utiliza una aplicación que pueda correr el código java, ❗Recomendable que utilices IntelliJ IDEA, pues con ella fue elaborada la aplicación❗
+
+## ✔️ Tecnologías utilizadas
+-`Java 21`-
+-`Exchange API`-
+-`GSON`-
